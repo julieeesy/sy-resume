@@ -1,0 +1,72 @@
+body {
+  background-color: #F5F5DC;
+  margin-left: 5px;
+  margin-right: -1px;
+  margin-top: -1px;
+  margin-bottom: -1px;
+  border: 12rem solid #A2A5AE;
+}
+h3 {
+  font-family: Open sans; 
+  font-size: 20px;
+  font-weight: bolder; 
+  margin-left: 70px;
+  margin-right: 90px;
+  margin-bottom: -1px;
+}
+h2.name {
+  font-family: Open sans; 
+  font-size: 30px;
+  font-weight: bold; 
+  margin-left: 70px;
+  margin-right: 90px;
+  margin-bottom: -20px;
+  margin-top: 30px;
+}
+h3.web {
+  font-family: open sans; 
+  font-size: 17px;
+  font-weight: lighter; 
+  margin-left: 70px;
+  margin-right: 90px;
+  margin-bottom: -10px;
+  margin-top: 20px;
+}
+p {
+  font-family: Lato; 
+  font-size: 15px;  
+  margin-left: 70px;
+  margin-right: 120px;
+}
+ul.a {
+  list-style-type: disc;
+  font-family: Lato, Helvetica; 
+  font-size: 16px;
+  margin-left: 75px;
+  margin-right: 120px;
+}
+ol.b {
+  list-style-type: none;
+  font-family: Lato, Helvetica; 
+  font-size: 14px;
+}
+ol.b li {
+  padding: 5px;
+  margin-left: 25px;
+  margin-right: 120px;
+}
+hr{
+  border: 3px solid #001eld; 
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-top: 30px;
+}
+
+ul.other {
+  margin-left: 15px;
+  margin-right: 20px;
+}
+ul.other_one {
+  margin-left: 15px;
+  margin-right: 20px;
+}
